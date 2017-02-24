@@ -1,0 +1,9 @@
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\FillAndFlattenPdf.exe.config
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\obj\Debug\FillAndFlattenPdf.csprojResolveAssemblyReference.cache
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\FillAndFlattenPdf.exe
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\FillAndFlattenPdf.pdb
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\PDFNet\x64\PDFNet.dll
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\PDFNet\x86\PDFNet.dll
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\bin\Debug\PDFNetLoader.dll
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\obj\Debug\FillAndFlattenPdf.exe
+c:\users\dbaker.sdglocal\documents\visual studio 2013\Projects\FillAndFlattenPdf\FillAndFlattenPdf\obj\Debug\FillAndFlattenPdf.pdb
